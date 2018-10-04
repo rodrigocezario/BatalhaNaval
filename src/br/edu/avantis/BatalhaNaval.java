@@ -1,5 +1,5 @@
 /**
- * Atividade prática em Java
+ * Atividade prática em Java da disciplina de Programação I
  * Programa "Batalha Naval".
  *
  * @author  Rodrigo Cezario da Silva
